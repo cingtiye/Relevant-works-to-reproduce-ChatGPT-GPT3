@@ -16,21 +16,25 @@ ZH: 最近，许多机构和组织都开始复现ChatGPT/GPT3,该仓库正在收
 | BLOOMZ | BigScience | :book: [PAPER](https://arxiv.org/abs/2211.01786)  :hugs: [MODEL](https://huggingface.co/bigscience/bloomz) :factory: [GIT](https://github.com/bigscience-workshop/xmtf)| 2022 |
 | LLAM | Facebook | :book: [PAPER](https://arxiv.org/abs/2302.13971) :hugs: [MODEL](https://huggingface.co/datasets/nyanko7/LLaMA-65B) :factory: [GIT](https://github.com/facebookresearch/llama)| 2023 |
 | Alpaca | Stanford | :factory: [GIT](https://github.com/tatsu-lab/stanford_alpaca) | 2023 |
+| GPT4 | Open AI | :pencil: [BLOG](https://openai.com/product/gpt-4) | 2023 |
 
 
 ## :droplet:Test dataset
 | dataset | organization | link | year |
 | :------------- | :---- | :----| -------------- |
-| MMLU | OpenAI | :book: [PAPER](https://arxiv.org/abs/2009.03300) :hugs: [DATASET](https://huggingface.co/datasets/lukaemon/mmlu) :factory: [GIT](https://github.com/hendrycks/test) | 2021 |
+| MMLU | Open AI | :book: [PAPER](https://arxiv.org/abs/2009.03300) :hugs: [DATASET](https://huggingface.co/datasets/lukaemon/mmlu) :factory: [GIT](https://github.com/hendrycks/test) | 2021 |
 | BIG-Bench | Google | :book: [PAPER](https://arxiv.org/abs/2206.04615) :hugs: [DATASET](https://huggingface.co/datasets/bigbench) :factory: [GIT](https://github.com/google/BIG-bench) | 2022 |
+| Evals | Evals | :factory: [GIT](https://github.com/openai/evals) | 2023 |
 
 ## :rocket: Updae
 
-- 2023/03/04 Add **BIG-Bench**
+- 2023/03/15 Add **OpenAI Evals**, Evals is a framework for evaluating OpenAI models and an open-source registry of benchmarks.
+- 2023/03/15 Add **GPT4**, GPT-4 is OpenAI’s most advanced system, producing safer and more useful responses.
+- 2023/03/14 Add **BIG-Bench**
 - 2023/03/14 Add **MMLU dataset**
-- 2023/03/14 Add **<font color=''>Alpaca</font>**
-- 2023/03/14 Add **LLAM**
+- 2023/03/14 Add **<font color=''>Alpaca</font>**, Alpaca is an instruction-following LLaMA model.
+- 2023/03/14 Add **LLAM**, LLaM is an open and efficient foundation language model.
 - 2023/03/14 Add **BLOOM/BLOOMZ**
 - 2023/03/14 Add **OPT/OPT-IML**
-- 2023/03/14 Add **PaLM/FLAN-PaLM** 
+- 2023/03/14 Add **PaLM/FLAN-PaLM**, PaLM is a single model that could generalize across domains and tasks while being highly efficient. 
 - 2023/03/14 Create repository 
